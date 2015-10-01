@@ -6,7 +6,7 @@ image: '/images/blog/2015-08-19.png'
 author: Leilão de Prêmios
 description: "Cada vez mais o meio corporativo tem utilizado as técnicas de gamification para alavancar vendas e fidelizar seus clientes. As técnicas se baseiam em aplicar ao meio corporativo algumas características lúdicas e lógicas, que são encontradas em jogos de videogames"
 tags:
-- gamification
+- Gamificação
 - Leilão de Prêmios
 ---
 

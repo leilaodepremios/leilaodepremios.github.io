@@ -6,8 +6,8 @@ image: '/images/blog/2015-07-25.jpg'
 author: Leilão de Prêmios
 description: "Estamos vivendo uma mudança de geração, da era analógica para a era digital, e precisamos estar antenados para os benefícios e riscos desta nova era."
 tags:
-- sebrae-sp
-- techshow2015 
+- Sebrae-SP
+- Techshow2015 
 - Leilão de Prêmios
 ---
 

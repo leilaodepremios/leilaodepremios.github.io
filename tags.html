@@ -5,28 +5,35 @@ permalink: /tags/index.html
 description: "Procure os assuntos pelas tags."
 ---
 
-<div class="tags">
+<div class="tags" style="padding-top: 50px;">
 {% assign tags_list = site.tags %}
   {% if tags_list.first[0] == null %}
     {% for tag in tags_list %}
-        <a data-scroll href="#{{ tag }}">{{ tag }}</a>
+        <a data-scroll class="btn btn-default" href="#{{ tag }}">{{ tag }}</a>
     {% endfor %}
   {% else %}
     {% for tag in tags_list %}
-        <a data-scroll href="#{{ tag[0] }}">{{ tag[0] }}</a>
+        <a data-scroll class="btn btn-default" href="#{{ tag[0] }}-50;">{{ tag[0] }}</a>
     {% endfor %}
   {% endif %}
 {% assign tags_list = nil %}
 </div>
-
+<div style="padding-top:50px;"></div>
 {% for tag in site.tags  %}
-    <span class="tag-title" id="{{ tag[0] }}">{{ tag[0] }}</span>
+    <h3 class="tag-title" id="{{ tag[0] }}">{{ tag[0] }}</h3>
     <ul class="post-list">
         {% assign pages_list = tag[1] %}
         {% for post in pages_list reversed %}
             {% if post.title != null %}
             {% if group == null or group == post.group %}
-            <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
+            <li>
+            <h4>
+                <a href="{{ site.url }}{{ post.url }}">
+                {{ post.title }} 
+                </a>
+            </h4>
+            <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%d-%m-%Y" }}</time>
+            </li>
             {% endif %}
             {% endif %}
         {% endfor %}

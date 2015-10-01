@@ -6,7 +6,7 @@ image: '/images/blog/2015-08-10.jpg'
 author: Leilão de Prêmios
 description: "Não basta oferecer um produto original e de boa qualidade aos consumidores."
 tags:
-- marca
+- Marca
 - Leilão de Prêmios
 ---
 
