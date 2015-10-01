@@ -1,0 +1,50 @@
+<div class="navbar navbar-default navbar-fixed-top navbar-size-large navbar-size-xlarge paper-shadow" data-z="0" data-animated role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="navbar-brand navbar-brand-logo">
+                <a href="index.php">
+                    <img src="/images/logo.png" alt="Leilão de Prêmios - O melhor site de promoção comercial" width="100" height="100"/>
+                </a>
+            </div>
+        </div>
+        <h4 id="title-top">O Melhor Site de Promoção Comercial</h4>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="main-nav">
+            <ul class="nav navbar-nav navbar-nav-margin-left">
+                <li class="dropdown">
+                    <a href="index.php">Home </a>
+                </li>
+                <li class="dropdown">
+                    <a href="#" data-toggle="modal" data-target="#apresentacao">Como funciona</a>
+                </li>
+                <li class="active">
+                    <a class="site-title" href="{{ site.baseurl }}/">Blog</a>
+                </li>
+                <li>
+                    <a href="fale-conosco.php">Fale Conosco</a>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-nav-margin-left navbar-right" id="selectCidade">
+                <div style="width: 100%; padding-top:20px;" class="form-group">
+                    <select class="select-city" 
+                        data-toggle="select2" data-placeholder="Insira a sua Localização" data-allow-clear="true" onChange="window.location=this.value">
+                        <option></option>
+                        <optgroup label="São Paulo">
+                            <option value="http://saopaulo.leilaodepremios.com.br/site">São Paulo</option>
+                            <option value="http://jales.leilaodepremios.com.br/site">Jales</option>
+                        </optgroup>
+                    </select>
+                 </div> 
+            </ul>
+            
+        </div>
+        <!-- /.navbar-collapse -->
+
+    </div>
+</div>

@@ -1,0 +1,17 @@
+{
+	"markers": [
+		{
+			"latitude": 1,
+			"longitude": 1,
+			"title": "",
+			"description": "",
+			"template": "map-infobox-simple",
+			"icon": "building-02",
+			"open": true,
+			"options": {
+				"bound": true,
+				"tags": ["Building"]
+			}
+		}
+	]
+}

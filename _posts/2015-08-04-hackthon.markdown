@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Hackathon traz dicas para desenvolvimento de soluções em economia criativa."
+date: 2015-08-04
+image: '/images/blog/2015-08-04.jpg'
+author: Leilão de Prêmios
+description: "Segundo Esquenta do Hackathon traz dicas para desenvolvimento de soluções em economia criativa."
+tags:
+- noroeste-paulista
+- mqnpublicidade 
+- Leilão de Prêmios
+---
+
+![Alt text](/images/blog/2015-08-04.jpg "Leilão de Prêmios na região Noroeste Paulista.")
+
+Segundo Esquenta do Hackathon traz dicas para desenvolvimento de soluções em economia criativa.
+
+Auditório lotado na FIESP no 2º Esquenta Hackathon. Foi gratificante participar de um evento de alto nível como este, onde foi discutido as várias formas colaborativas que as novas tecnologia nos permite criar para compartilharmos bens e serviços. No momento atual, este assunto é de extrema relevância para que possamos através do compartilhamento, economizar, ajudar o meio ambiente, e termos a oportunidade de usufruirmos de bens e serviços que talvez não teríamos a chance de fazê-lo. 
+
+Link da matéria: [fiesp.com.br](http://fiesp.com.br)

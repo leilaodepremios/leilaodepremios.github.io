@@ -1,0 +1,24 @@
+# Plugins
+gems:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jemoji
+
+# Conversion
+# markdown: redcarpet
+# highlighter: pygments
+excerpt_separator: ""
+
+# Site settings
+title: Blog - Leilão de Prêmios o melhor site de promoção comercial
+email: contato@mqnpublicidade.com.br
+description: > # this means to ignore newlines until "baseurl:"
+  Leilão de Prêmios Blog do melhor site de promoção comercial
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.leilaodepremios.com.br" # the base hostname & protocol for your site
+twitter_username: taylsonmartinez
+github_username:  taylsonmartinez
+
+# Build settings
+markdown: kramdown
