@@ -6,7 +6,7 @@ image: '/images/blog/2015-08-13.jpg'
 author: Leilão de Prêmios
 description: "Parabéns a nossa parceira MQN Publicidade por este avanço, conquistando a parceria da ACIJ - Associação Comercial de Jales-SP"
 tags:
-- mqnpublicidade
+- MQNPublicidade
 - Leilão de Prêmios
 ---
 

@@ -6,8 +6,8 @@ image: '/images/blog/2015-08-04.jpg'
 author: Leilão de Prêmios
 description: "Segundo Esquenta do Hackathon traz dicas para desenvolvimento de soluções em economia criativa."
 tags:
-- noroeste-paulista
-- mqnpublicidade 
+- Noroeste Paulista
+- MQNPublicidade 
 - Leilão de Prêmios
 ---
 

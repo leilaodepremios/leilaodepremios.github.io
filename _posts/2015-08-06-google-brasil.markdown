@@ -6,8 +6,8 @@ image: '/images/blog/2015-08-06.jpg'
 author: Leilão de Prêmios
 description: "A convite do Google e Goomark, o empresário Alexandre Calmon, CEO do Leilão de Prêmios, visitou as dependências da sede do Google em São Paulo "
 tags:
-- google
-- mqnpublicidade 
+- Google
+- MQNPublicidade 
 - Leilão de Prêmios
 ---
 
