@@ -13,7 +13,7 @@ description: "Procure os assuntos pelas tags."
     {% endfor %}
   {% else %}
     {% for tag in tags_list %}
-        <a data-scroll class="btn btn-default" href="#{{ tag[0] }}-50;">{{ tag[0] }}</a>
+        <a data-scroll class="btn btn-default" href="#{{ tag[0] }}">{{ tag[0] }}</a>
     {% endfor %}
   {% endif %}
 {% assign tags_list = nil %}

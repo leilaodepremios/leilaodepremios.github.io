@@ -6,12 +6,12 @@ layout: default
     {% for post in site.posts %}
         <article role="article" class="post-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" style="padding-top:30px;">
                 <div class="content">
-                <div class="row">
+                <div class="row blog-bg">
                 <div class="col-md-4">
                     <img src="{{ post.image }}" style="padding:15px;">
                 </div>
                 <div class="col-md-8">
-                    <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="post-title" itemprop="name">{{ post.title }}</h3></a>
+                    <a href="{{ post.url | prepend: site.baseurl }}"><p itemprop="name"><span class="post-title">{{ post.title }}</span> <br/>{{ post.date | date: "%-d-%m-%Y" }}</p></a>
                     
                     <p class="description">
                         {{ post.content | strip_html | truncatewords:40 }}

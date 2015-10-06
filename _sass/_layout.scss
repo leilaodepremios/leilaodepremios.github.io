@@ -199,12 +199,12 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 32px;
     letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: 26px;
     }
 }
 
@@ -246,7 +246,10 @@
     }
 }
 
-
+.blog-bg{
+  background:#f5f5f5;
+  padding: 5px;
+}
 
 .btn {
   display: inline-block;
