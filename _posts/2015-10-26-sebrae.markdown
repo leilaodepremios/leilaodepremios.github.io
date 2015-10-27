@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Envolver e motivar o consumidor - Jornal de Negócios"
+title: "Envolver e motivar o consumidor - Jornal de Negócios do Sebrae-SP"
 date: 2015-10-26
 image: '/images/blog/2015-10-26.jpg'
 author: Leilão de Prêmios
@@ -15,4 +15,4 @@ tags:
 ![Alt text](/images/blog/2015-10-26_blog.jpg "Projeto Leilão de Prêmios recebe apoio do SEBRAE-SP")
 
 
-Link: [Jornal de Negócios](http://www.sebraesp.com.br/arquivos_site/noticias/jornal_negocios/260/JN260_SaoPaulo.pdf)
+Link: [Jornal de Negócios do Sebrae-SP](http://www.sebraesp.com.br/arquivos_site/noticias/jornal_negocios/260/JN260_SaoPaulo.pdf)
