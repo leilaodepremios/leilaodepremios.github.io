@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Envolver e motivar o consumidor - Jornal de Negócios"
-date: 2015-09-30
+date: 2015-10-26
 image: '/images/blog/2015-10-26.jpg'
 author: Leilão de Prêmios
 description: "Uma tendência de marketing vem ganhando espaço: o uso da lógica do mundo dos games para divulgar produtos e empresas. Veja como funciona e os benefícios "
