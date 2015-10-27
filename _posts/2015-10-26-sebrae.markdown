@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Envolver e motivar o consumidor - Jornal de Negócios"
+date: 2015-09-30
+image: '/images/blog/2015-10-26.jpg'
+author: Leilão de Prêmios
+description: "Uma tendência de marketing vem ganhando espaço: o uso da lógica do mundo dos games para divulgar produtos e empresas. Veja como funciona e os benefícios "
+tags:
+- Sebrae-SP
+- Inovação
+- Gamificação
+- Leilão de Prêmios
+---
+
+![Alt text](/images/blog/2015-10-26_blog.jpg "Projeto Leilão de Prêmios recebe apoio da distrital centro da ACSP")
+
+
+Link: [Jornal de Negócios](http://www.sebraesp.com.br/arquivos_site/noticias/jornal_negocios/260/JN260_SaoPaulo.pdf)
