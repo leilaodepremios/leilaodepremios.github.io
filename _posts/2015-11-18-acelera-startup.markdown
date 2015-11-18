@@ -14,8 +14,6 @@ tags:
 
 ![Alt text](/images/blog/2015-11-18.jpg "Leilão de Prêmios foi selecionado pelo Acelera Startup da FIESP como um dos 300 melhores negócios do Brasil.")
 
-###Leilão de Prêmios foi selecionado pelo Acelera Startup da FIESP como um dos 300 melhores negócios do Brasil.
-
 A 7ª Edição do Acelera Startup, um dos maiores eventos da América Latina, que tem o objetivo de incentivar o empreendedorismo inovador e de aproximar projetos e empresas de investidores, promovido pela Federação das Indústrias do Estado de São Paulo (FIESP), aconteceu nos dias 16 e 17 de novembro. O evento que é organizado pelo Comitê Acelera Fiesp e foi realizado na sede da entidade. 
 
 Foram inscritos 4.980 projetos de todo Brasil e os 300 melhores projetos e/ou empresas foram selecionados e tiveram a oportunidade de participar durante dois dias de um exclusivo processo de aceleração, com palestras, workshops, mentorias e avaliações. As categorias desta edição foram Geral; Agronegócio; Educação; Saúde e Bem-estar.
