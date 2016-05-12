@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leilão de Prêmios agora em parceria com o Sebrae-SP, levará a todo o estado, uma ferramenta de marketing baseado no conceito de gamificação, com o objetivo de ajudar as pequenas e médias empresas a superarem esta crise de forma criativa e inovadora"
+title: "Leilão de Prêmios agora em parceria com o Sebrae-SP, levará a todo o estado, uma ferramenta de marketing baseado no conceito de gamificação, com o objetivo de ajudar as pequenas e médias empresas a superarem esta crise de forma criativa e inovadora."
 date: 2016-05-12
 image: '/images/blog/Parceria-Sebrae-SP.jpg'
 author: Leilão de Prêmios
