@@ -18,7 +18,7 @@ tags:
 - Desconto
 ---
 
-![Alt text](/images/blog/ Parceria-Sebrae-SP.jpg "Parceria Leilão de Prêmios e Sebrae-SP.")
+![Alt text](/images/blog/Parceria-Sebrae-SP.jpg "Parceria Leilão de Prêmios e Sebrae-SP.")
 
 
 
