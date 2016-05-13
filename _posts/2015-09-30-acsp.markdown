@@ -19,24 +19,24 @@ Durante a 7ª Reunião Ordinária da Diretoria Executiva e do Conselho Diretor d
 O projeto chamado "Leilão de Prêmios" é um portal de promoção comercial que promove a relação empresa/consumidor e se dedica a leiloar produtos e serviços de diversos seguimentos com 99% de desconto. 
 
 
-###OBJETIVOS
+OBJETIVOS
 
 O projeto tem o objetivo de ser uma ferramenta inovadora, com baixo custo e divertida, com as seguintes funções: alavancar as vendas; ser um veículo de divulgação de produtos e serviços; e ser um mecanismo para fortalecer a marca da empresa.
 
 
-###COMO FUNCIONA
+COMO FUNCIONA
 
 Através de um leilão virtual online, os clientes poderão arrematar produtos e serviços diariamente com 99% de desconto. Ou seja, o cliente pagará somente 1% do valor de venda do produto. 
 
 
-###COMO A EMPRESA PARTICIPA
+COMO A EMPRESA PARTICIPA
 
 - Escolher 01 produto ou serviço por mês para ser leiloado com 99% desconto durante 6 meses (o preço do produto ou serviço tem que ser acima de R$ 100,00). 
 
 - Investimento financeiro para custear a campanha (site, servidor, instituição parceira, mídia entre outros) conforme planilha no final do projeto.
 
 
-###COMO O CLIENTE PARTICIPA
+COMO O CLIENTE PARTICIPA
 
 - O cliente terá apenas duas formas para conseguir adquirir os lances e ter a oportunidade de arrematar produtos e serviços pagando somente 1%.
 
@@ -47,7 +47,7 @@ Ao comprar nas lojas participantes o cliente vai adquirir cupons. Cada cupom ter
 Uma vez por dia os clientes também terão a oportunidade de ganharem 5 lances mesmo se não comprarem nas empresas participantes. Na página inicial do site terá uma opção “publiclik – ganhe 5 lances”, ao clicar nessa opção irão aparecer logomarcas de empresas participantes da campanha. Para que eles consigam ganhar 5 lances terão que clicar em cada uma das logomarcas e ver suas publicidades pelo tempo de 20 segundos cada uma. Ao terminar de ver todas as publicidades será creditado no seu saldo 5 lances.
 
 
-###COMO FUNCIONA O LEILÃO
+COMO FUNCIONA O LEILÃO
 
 1º - em cada produto o cliente poderá dar no máximo 5 lances. 
 
