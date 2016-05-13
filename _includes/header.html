@@ -8,26 +8,32 @@
                 <span class="icon-bar"></span>
             </button>
             <div class="navbar-brand navbar-brand-logo">
-                <a href="http://www.leilaodepremios.com.br/index.php">
-                    <img src="/images/logo.png" alt="Leilão de Prêmios - O melhor site de promoção comercial" width="100" height="100"/>
+                <a href="index.php">
+                    <img src="images/logo.png" alt="Leilão de Prêmios - O melhor site de promoção comercial" width="100" height="100"/>
                 </a>
             </div>
         </div>
-        <h4 id="title-top">O Melhor Site de Promoção Comercial</h4>
+        <h4 id="title-top" class="invisible">O Melhor Site de Promoção Comercial</h4>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="main-nav">
             <ul class="nav navbar-nav navbar-nav-margin-left">
-                <li class="dropdown">
-                    <a href="http://www.leilaodepremios.com.br/index.php">Home </a>
+                <li class="dropdown <?php if ($section == "home") { echo "active"; } ?>">
+                    <a href="index.php">Home </a>
                 </li>
                 <li class="dropdown">
                     <a href="#" data-toggle="modal" data-target="#apresentacao">Como funciona</a>
                 </li>
-                <li class="active">
-                    <a class="site-title" href="{{ site.baseurl }}/">Blog</a>
+                <li>
+                    <a href="http://blog.leilaodepremios.com.br">Blog</a>
                 </li>
                 <li>
-                    <a href="http://www.leilaodepremios.com.br/fale-conosco.php">Fale Conosco</a>
+                    <a href="assinatura.php">Planos</a>
+                </li>
+                <li>
+                    <a href="videos.php">Videos</a>
+                </li>
+                <li class="<?php if ($section == "fale-conosco") { echo "active"; } ?>">
+                    <a href="fale-conosco.php">Fale Conosco</a>
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-nav-margin-left navbar-right" id="selectCidade">
@@ -36,15 +42,13 @@
                         data-toggle="select2" data-placeholder="Insira a sua Localização" data-allow-clear="true" onChange="window.location=this.value">
                         <option></option>
                         <optgroup label="São Paulo">
-                            <option value="http://saopaulo.leilaodepremios.com.br/site">São Paulo</option>
                             <option value="http://jales.leilaodepremios.com.br/site">Jales</option>
+                            <option value="http://mogidascruzes.leilaodepremios.com.br/site">Mogi das Cruzes</option>
+                            <option value="http://saopaulo.leilaodepremios.com.br/site">São Paulo</option>
                         </optgroup>
-                        <optgroup label="Minas Gerais">
-                            <option value="http://bh.leilaodepremios.com.br/site">Belo Horizonte</option>
-                        </optgroup>
-                        <optgroup label="Rio de Janeiro">
-                            <option value="http://riodejaneiro.leilaodepremios.com.br/site/">Rio de Janeiro</option>
-                        </optgroup>
+                        <!-- <optgroup label="Santa Catarina">
+                            <option value="http://saojoaquim.leilaodepremios.com.br/site/">São Joaquim</option>
+                        </optgroup>-->
                     </select>
                  </div> 
             </ul>
