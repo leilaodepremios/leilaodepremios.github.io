@@ -14,4 +14,4 @@ tags:
 
 ![Alt text](/images/blog/palestra_jales.jpg "Palestra em Jales")
 
-O Founder e CEO do Leilão de Prêmios, esteve na cidade de Jales-SP no dia 23/09/2015, para ministrar uma palestra para alunos da UNIJALES e empresários convidados sobre Inovação, Empreendedorismo e Gamificação do Marketing. Foi um grande sucesso, com uma grande presença de pessoas na câmara municipal. O evento foi realizado pela UNIJAES em parceria com a empresa MQN Publicidade Digital e a Associação Comercial e Industrial de Jales-SP.
+O Fundador e CEO do Leilão de Prêmios, esteve na cidade de Jales-SP no dia 23/09/2015, para ministrar uma palestra para alunos da UNIJALES e empresários convidados sobre Inovação, Empreendedorismo e Gamificação do Marketing. Foi um grande sucesso, com uma grande presença de pessoas na câmara municipal. O evento foi realizado pela UNIJAES em parceria com a empresa MQN Publicidade Digital e a Associação Comercial e Industrial de Jales-SP.
