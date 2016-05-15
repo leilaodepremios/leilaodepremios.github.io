@@ -10,10 +10,11 @@ tags:
 - Microsoft BizSpark
 - Leilão de Prêmios
 - Gamificação
-- Marketing
+- Marketing 
 - Parceria
 - Startup
 - Inovação
+
 ---
 
 ![Alt text](/images/blog/Microsoft-leilao.jpg "Leilão de Prêmios se torna Microsoft BizSpark Startup.")
