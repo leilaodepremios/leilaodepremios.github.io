@@ -2,7 +2,7 @@
 layout: post
 title: "Leilão de Prêmios se torna Microsoft BizSpark Startup."
 date: 2016-03-16
-image: '/images/blog/Microsoft-leilao.jpg'
+image: '/images/blog/microsoft-leilao.jpg'
 author: Leilão de Prêmios
 description: " O Leilão de Prêmios obteve mais uma grande conquista. Foi selecionado pela Microsoft Brasil para fazer parte de um dos melhores programas de apoio a Startups do mundo, o programa Microsoft BizSpark. Este apoio será de suma importância para que a nova versão do site Leilão de Prêmios e a construção do seu aplicativo, que será lançado em breve, seja desenvolvido com as melhores ferramentas de tecnologia disponível no momento oferecidos pelo programa da Microsoft. "
 
@@ -17,7 +17,7 @@ tags:
 
 ---
 
-![Alt text](/images/blog/Microsoft-leilao.jpg "Leilão de Prêmios se torna Microsoft BizSpark Startup.")
+![Alt text](/images/blog/microsoft-leilao.jpg"Leilão de Prêmios se torna Microsoft BizSpark Startup.")
 
 O <strong>Leilão de Prêmios</strong> obteve mais uma grande conquista. Foi selecionado pela <strong>Microsoft Brasil</strong>, para fazer parte de um dos melhores programas de apoio a Startups do mundo, o programa <strong>Microsoft BizSpark</strong>. Este apoio será de suma importância para que a nova versão do site Leilão de Prêmios e a construção do seu aplicativo, que será lançado em breve, seja desenvolvido com as melhores ferramentas de tecnologia disponível no momento oferecidos pelo programa da Microsoft. 
 
