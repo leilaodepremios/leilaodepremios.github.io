@@ -44,7 +44,7 @@ Além dos dois vencedores, foram classificadas para a etapa final do Concurso Ac
 
 <strong>Cosmético Já</strong>, centro para emagrecer, reeducar em termos alimentar e realizar correções por meio de procedimentos estéticos.
 
-<strong>Manicura Express</strong>; Utiliza técnica sem objetos cortantes e dois produtos de fabricação própria para cuidar das mãos.
+<strong>Manicura Express</strong>, utiliza técnica sem objetos cortantes e dois produtos de fabricação própria para cuidar das mãos.
 
 <strong>Nexoos</strong>, plataforma de empréstimos peer to peer para pequenas e médias empresas. O conceito é crowdfunding de empréstimos.
 
@@ -52,7 +52,7 @@ Além dos dois vencedores, foram classificadas para a etapa final do Concurso Ac
 
 <strong>Leia.me</strong>, plataforma desenvolvida para apresentar novos escritores.
 
-<strong>Sustentare</strong>. Desenvolve o How to Lab, método inovador para controle de qualidade.
+<strong>Sustentare</strong>, desenvolve o How to Lab, método inovador para controle de qualidade.
 
 
 
