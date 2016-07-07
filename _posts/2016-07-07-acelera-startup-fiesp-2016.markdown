@@ -2,7 +2,7 @@
 layout: post
 title: "Na 8ª Edição do ACELERA STARTUP: Maior concurso de empreendedorismo do BRASIL, realizado pela FIESP, a Startup LEILÃO DE PRÊMIOS, disputando com 4.500 Startups inscritas, foi classificada entre as 12 finalistas, posicionando-se como uma das melhores startups do país."
 date: 2016-07-07
-image: '/images/blog/Parceria-Sebrae-SP.jpg'
+image: '/images/blog/2015-07-07.jpg'
 author: Leilão de Prêmios
 description: " Nas últimas edições do evento, foram recebidas mais de 11.500 inscrições de todo o Brasil e participaram mais de 400 mentores e mais de 250 investidores, sendo anjos, representantes de fundos de investimentos e empresas que trabalham com inovação aberta. Somando as edições anteriores, o evento já gerou investimentos de mais de R$ 5 milhões."
 tags:
