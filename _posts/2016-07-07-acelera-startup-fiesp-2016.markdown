@@ -36,23 +36,23 @@ Skaf convidou todos os 12 finalistas para um almoço na sede da FIESP para que e
 
 Além dos dois vencedores, foram classificadas para a etapa final do Concurso Acelera Startup as empresas abaixo:
 
-Leilão de Prêmios, ferramenta de marketing e publicidade baseada no conceito de gamificação, para pequenas e médias empresas.
+<strong>Leilão de Prêmios</strong>, ferramenta de marketing e publicidade baseada no conceito de gamificação, para pequenas e médias empresas.
 
-Nearbee, plataforma de segurança para ser usado em situações de emergência.
+<strong>Nearbee</strong>, plataforma de segurança para ser usado em situações de emergência.
 
-Deshtec, rede de comunicação sem fio multisserviços, para aplicação em Internet das Coisas, cidades inteligentes e telemetria industrial m2m. Desenvolveram hardware, software e firmware.
+<strong>Deshtec</strong>, rede de comunicação sem fio multisserviços, para aplicação em Internet das Coisas, cidades inteligentes e telemetria industrial m2m. Desenvolveram hardware, software e firmware.
 
-Cosmético Já, centro para emagrecer, reeducar em termos alimentar e realizar correções por meio de procedimentos estéticos.
+<strong>Cosmético Já</strong>, centro para emagrecer, reeducar em termos alimentar e realizar correções por meio de procedimentos estéticos.
 
-Manicura Express. Utiliza técnica sem objetos cortantes e dois produtos de fabricação própria para cuidar das mãos.
+<strong>Manicura Express</strong>; Utiliza técnica sem objetos cortantes e dois produtos de fabricação própria para cuidar das mãos.
 
-Nexoos, plataforma de empréstimos peer to peer para pequenas e médias empresas. O conceito é crowdfunding de empréstimos.
+<strong>Nexoos</strong>, plataforma de empréstimos peer to peer para pequenas e médias empresas. O conceito é crowdfunding de empréstimos.
 
-Dataholics capta e estrutura milhões de dados de pessoas em redes sociais como facebook, e Linkedin, além de informações de fontes públicas da web.
+<strong>Dataholics</strong>, capta e estrutura milhões de dados de pessoas em redes sociais como facebook, e Linkedin, além de informações de fontes públicas da web.
 
-Leia.me, plataforma desenvolvida para apresentar novos escritores.
+<strong>Leia.me</strong>, plataforma desenvolvida para apresentar novos escritores.
 
-Sustentare. Desenvolve o How to Lab, método inovador para controle de qualidade.
+<strong>Sustentare</strong>. Desenvolve o How to Lab, método inovador para controle de qualidade.
 
 
 
