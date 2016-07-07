@@ -34,7 +34,7 @@ Ao final do evento, o CEO do Leilão de Prêmios Alexandre Calmon, foi comprimen
 Skaf convidou todos os 12 finalistas para um almoço na sede da FIESP para que ele possa conhecer melhor cada um dos projetos e juntamente com a equipe do CAF, auxiliar todas as empresas no seu crescimento.
 
 
-Além dos dois vencedores, foram classificadas para a finalissima do Concurso Acelera Startup as empresas abaixo:
+Além dos dois vencedores, foram classificadas para a finalíssima do Concurso Acelera Startup as empresas abaixo:
 
 <strong>Leilão de Prêmios</strong>, ferramenta de marketing e publicidade baseada no conceito de gamificação, para pequenas e médias empresas.
 
