@@ -20,7 +20,6 @@ tags:
 
 
 
-<strong>Oitava edição</strong>
 
 Concorrendo com mais de 4.500 empresas inscritas de todo Brasil para participar da 8ª edição do Acelera Startup realizado pela FIESP, nos dias 05 e 06 de julho de 2016, o portal de promoção comercial Leilão de Prêmios foi premiado sendo um dos 12 finalistas. O concurso é considerado um dos maiores da América Latina e reune as melhores startups do país.
 
