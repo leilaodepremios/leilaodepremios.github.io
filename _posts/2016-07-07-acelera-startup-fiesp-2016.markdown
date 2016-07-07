@@ -31,7 +31,7 @@ Antes de anunciar os prêmios, Skaf ressaltou o grande número de projetos inscr
 
 Ao final do evento, o CEO do Leilão de Prêmios foi comprimentado pelo presidente da Fiesp, Ciesp, Sesi-SP, Sebrae-SP e Senai-SP, Paulo Skaf e pelo Diretor Titular do CAF Sylvio Gomide (foto).
 
-Skaf convidou todos os 12 finalistas para um almoço na sede da FIESP para que ele possa melhor cada um dos projetos e juntamente com a equipe do CAF, auxiliar todas as empresas no seu crescimento.
+Skaf convidou todos os 12 finalistas para um almoço na sede da FIESP para que ele possa conhecer melhor cada um dos projetos e juntamente com a equipe do CAF, auxiliar todas as empresas no seu crescimento.
 
 
 Além dos dois vencedores, foram classificadas para a etapa final do Concurso Acelera Startup as empresas abaixo:
