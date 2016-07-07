@@ -29,7 +29,7 @@ Antes de anunciar os prêmios, Skaf ressaltou o grande número de projetos inscr
 
 “É ótimo sonhar e perseguir o sonho para que vire realidade”, disse Skaf. “Mas com o pé no chão” ressalvou. Para ajudar os empreendedores, Skaf lembrou que pediu em 2015 que o Sebrae-SP, do qual também é presidente, criasse o programa Continue Acelerando, para manter o apoio aos finalistas. Renato Fonseca, do Sebrae-SP, explicou que a ideia do programa é que os 250 finalistas passem por 20 horas de atividades de mentoria, workshops e oficinas e tenham contato com investidores e aceleradoras. O trabalho começa em 15 de julho. É uma continuação do Acelera Fiesp, disse. Sylvio Gomide, diretor titular do Comitê Acelera Fiesp (CAF), responsável pelo concurso, destacou o apoio de Skaf ao Acelera.
 
-Ao final do evento, o CEO do Leilão de Prêmios Alexandre Calmon, foi comprimentado pelo presidente da Fiesp, Ciesp, Sesi-SP, Sebrae-SP e Senai-SP, Paulo Skaf e pelo Diretor Titular do CAF Sylvio Gomide (foto).
+Ao final do evento, o CEO do Leilão de Prêmios Alexandre Calmon, foi cumprimentado pelo presidente da Fiesp, Ciesp, Sesi-SP, Sebrae-SP e Senai-SP, Paulo Skaf e pelo Diretor Titular do CAF Sylvio Gomide (foto).
 
 Skaf convidou todos os 12 finalistas para um almoço na sede da FIESP para que ele possa conhecer melhor cada um dos projetos e juntamente com a equipe do CAF, auxiliar todas as empresas no seu crescimento.
 
