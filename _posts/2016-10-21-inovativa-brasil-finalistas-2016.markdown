@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leilão de Prêmios é finalista do programa de aceleração InovAtiva Brasil"
+title: "Leilão de Prêmios é finalista do programa de aceleração InovAtiva Brasil, realizado pelo Ministério da Indústria, Comércio Exterior e Serviços do Governo Federal, em parceria com o Sebrae, Senai, Certi, entre outras grandes instituições nacionais."
 date: 2016-10-21
 image: '/images/blog/2016-10-21.jpg'
 author: Leilão de Prêmios
