@@ -32,7 +32,6 @@ Na avaliação de Leandro Carioni, diretor do Centro de Empreendedorismo Inovado
 
 Entre os selecionados está o Sistema Olho do Dono, que utiliza câmeras 3D para realizar a pesagem do gado nos pastos. Para Pedro Henrique Mannato Coutinho, sócio-fundador da startup, as mentorias individuais e o Demoday vão abrir muitas portas para o projeto. “Vai ser uma oportunidade única de debater estratégias com mentores de alto nível e apresentar o sistema para investidores de um patamar que, até então, não tínhamos alcançado”, afirma. A solução desenvolvida pela startup otimiza tempo e recursos no processo de pesagem do boi e ainda auxilia o produtor na tomada de decisões como alimentação e momento de venda. “Hoje em dia, isso é feito de maneira demorada e por amostragem. Além disso, exige muita mão-de-obra e causa grande stress no animal, que pode chegar a perder peso. Nossa proposta é utilizar tecnologia de ponta para obter dados mais fieis, de maneira mais rápida e eficiente”, completa.
 
-A lista completa das finalistas está disponível no link: (http://www.inovativabrasil.com.br/lista-de-empresas-aprovadas-etapa-2-ciclo-2016-2/)
 
 Fonte: [Portal InovAtiva Brasil](http://www.inovativabrasil.com.br/inovativa-brasil-divulga-as-125-finalistas-do-segundo-ciclo-de-aceleracao-de-2016/)
 
